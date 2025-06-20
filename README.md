@@ -10,7 +10,7 @@ A business-focused analysis for the executive team at **AtliQ Hardware**.
 - Analyzed over **1 million rows** of data using MySQL.
 - Solved **10 ad-hoc business requests** from executive management.
 - Created visualizations using **Power BI**.
-- Delivered insights in a well-structured **PowerPoint presentation**.
+- Delivered insights in a well-structured **Keynote presentation**.
 
 ---
 
@@ -28,7 +28,7 @@ A business-focused analysis for the executive team at **AtliQ Hardware**.
 - ✅ Data-driven insights and visuals
 - ✅ Business presentation summarizing results
 
-📁 `SQL_Project_Presentation.pptx` — includes:
+📁 `SQL_Project_Presentation.key` — includes:
 - SQL query explanations
 - Charts and tables
 - Final executive-level story
@@ -39,5 +39,5 @@ A business-focused analysis for the executive team at **AtliQ Hardware**.
 
 - **SQL (MySQL)**
 - **Power BI**
-- **Microsoft PowerPoint**
+- **Apple Keynote**
 
